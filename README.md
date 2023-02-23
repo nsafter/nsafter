@@ -5,10 +5,10 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nsafter/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="noimg"  />
-     
+     </a>
      <a href="https://www.hackerrank.com/nsharma63205">
-   <img src="https://img.shields.io/badge/HackerRank-success?logo=hackkerank&logoColor=white&style=for-the-badge" alt="noimg"  />
-</a>
+      <img src="https://img.shields.io/badge/HackerRank-success?logo=hackerrank&logoColor=white&style=for-the-badge" alt="noimg"  />
+      </a>
   <a href="https://leetcode.com/nsharma63205/">
      <img src="https://img.shields.io/badge/Leetcode-red?logo=leetcode&logoColor=white&style=for-the-badge" alt="noimg"  />
   </a>
