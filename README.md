@@ -65,5 +65,5 @@
 </div>
 
 <div align="center">
-   [![trophy](https://github-profile-trophy.vercel.app/?username=nsafter&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=nsafter)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
