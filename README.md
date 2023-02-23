@@ -49,7 +49,10 @@
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></code>
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/win11.svg" alt="Win11" width="40" height="40"/></code>
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/linux-original.svg" alt="Linux" width="40" height="40"/></code>
-
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/></code>
   </div>
-
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nsafter&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsafter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
