@@ -42,7 +42,7 @@
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/react-original-wordmark.svg" alt="React" width="40" height="40"/></code> 
    <code>
-      <img src="https://www.pngfind.com/pngs/m/430-4309256_built-on-opensource-three-js-logo-png-transparent.png" alt="threejs"  width="70" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/threejs/threejs-original-wordmark.svg" alt="threejs"  width="40" height="40"/>
    </code>
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/github.svg" alt="github" width="40" height="40"/></code> 
