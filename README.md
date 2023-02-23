@@ -41,7 +41,9 @@
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/></code> 
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code> 
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/react-original-wordmark.svg" alt="React" width="40" height="40"/></code> 
-  #
+   <code>
+      <img src="https://www.pngfind.com/pngs/m/430-4309256_built-on-opensource-three-js-logo-png-transparent.png" alt="threejs"  width="40" height="40"/>
+   </code>
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/github.svg" alt="github" width="40" height="40"/></code> 
 <code><img src="https://github.com/UjjwalSk/UjjwalSk/blob/main/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
